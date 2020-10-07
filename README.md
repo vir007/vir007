@@ -1,16 +1,21 @@
-### Hi there, I am Viral Patel ! Welcome to my github profile ! 👋
+### Hi there👋
+I'm Viral 👨‍💻 - A Machine Learning Enthusiast !
+I'm passionate about designing, building and deploying machine learning solutions as an end to end AI products 🎩
 
-<!--
-**vir007/vir007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently pursuing masters at the University of Ottawa
+- 🌱 I’m currently learning the concepts of Data Science and Machine Learning
+- 👯 I’m looking to collaborate on ML/DS projects.
+- 🤔 I’m looking for help with Cloud technologies.
+- 📫 How to reach me: virpatel6224@gmail.com 
+- ⚡ Fun fact: I want to travel the world
+
+
+### Connect with me:
+
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[website]: https://vir007.github.io/Portfolio/
+[linkedin]: https://www.linkedin.com/in/viralpatel2020/
