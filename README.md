@@ -27,6 +27,8 @@ I'm passionate about designing, building and deploying machine learning solution
 
 [website]: https://vir007.github.io/Portfolio/
 [linkedin]: https://www.linkedin.com/in/viralpatel2020/
+
+<br />
 <br />
 
 ---
