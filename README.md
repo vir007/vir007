@@ -27,3 +27,12 @@ I'm passionate about designing, building and deploying machine learning solution
 
 [website]: https://vir007.github.io/Portfolio/
 [linkedin]: https://www.linkedin.com/in/viralpatel2020/
+
+---
+  
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vir007&show_icons=true&hide_border=true" />
+
+</details>
