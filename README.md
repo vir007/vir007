@@ -5,6 +5,8 @@ I'm passionate about designing, building and deploying machine learning solution
 
 <img src="https://github.com/vir007/vir007/blob/main/ML.jpg">
 
+---
+
 - 🔭 I’m currently pursuing masters at the University of Ottawa
 - 🌱 I’m currently learning the concepts of Data Science and Machine Learning
 - 👯 I’m looking to collaborate on ML/DS projects.
@@ -12,6 +14,11 @@ I'm passionate about designing, building and deploying machine learning solution
 - 📫 How to reach me: virpatel6224@gmail.com 
 - ⚡ Fun fact: I want to travel the world
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vir007&layout=compact)](https://github.com/vir007)
+
+---
 
 ### Connect with me:
 
