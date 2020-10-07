@@ -29,7 +29,6 @@ I'm passionate about designing, building and deploying machine learning solution
 [linkedin]: https://www.linkedin.com/in/viralpatel2020/
 
 <br />
-<br />
 
 ---
   
