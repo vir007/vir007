@@ -3,7 +3,7 @@ I'm Viral 👨‍💻 - A Machine Learning Enthusiast !
 
 I'm passionate about designing, building and deploying machine learning solutions as an end to end AI products 🎩
 
-
+<img src="https://github.com/vir007/vir007/blob/main/ML.jpg">
 
 - 🔭 I’m currently pursuing masters at the University of Ottawa
 - 🌱 I’m currently learning the concepts of Data Science and Machine Learning
