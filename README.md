@@ -1,5 +1,5 @@
 ### Hi there👋
-I'm Viral 👨‍💻 - A Machine Learning Enthusiast !
+I'm Viral 👨‍💻 - A Data Science Enthusiast !
 
 I'm passionate about designing, building and deploying machine learning solutions as an end to end AI products 🎩
 
